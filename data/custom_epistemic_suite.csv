@@ -1,0 +1,301 @@
+pair_id,condition,text
+P001,original,"Our findings suggest that while high-dimensional signatures offer extensive predictive power, the consensus-based core genes - particularly TCF7L2 - represent reproducible candidate biomarkers associated with disease progression and patient outcome."
+P001,paraphrase,"Our findings suggest that while high-dimensional signatures offer extensive predictive power, the consensus-based core genes - particularly TCF7L2 - represent reproducible candidate biomarkers correlated with disease progression and patient outcome."
+P001,escalated,"Our findings suggest that while high-dimensional signatures offer extensive predictive power, the consensus-based core genes - particularly TCF7L2 - represent reproducible candidate biomarkers that contribute to disease progression and patient outcome."
+P002,original,We evaluated whether CT-detected central airway obstruction is associated with clinical airway events and overall survival (OS).
+P002,paraphrase,We evaluated whether CT-detected central airway obstruction is correlated with clinical airway events and overall survival (OS).
+P002,escalated,We evaluated whether CT-detected central airway obstruction causes clinical airway events and overall survival (OS).
+P003,original,"All tests were significantly associated with falls in univariable models, but only TUG remained significant in the multivariable model (OR = 1.26 per second; 95% CI: 1.08-1.47)."
+P003,paraphrase,"All tests were significantly correlated with falls in univariable models, but only TUG remained significant in the multivariable model (OR = 1.26 per second; 95% CI: 1.08-1.47)."
+P003,escalated,"All tests significantly contributed to falls in univariable models, but only TUG remained significant in the multivariable model (OR = 1.26 per second; 95% CI: 1.08-1.47)."
+P004,original,Pressure-guided pneumatic compression was associated with lower observed RAO rates and more favorable hemostatic and local outcomes than conventional screw-type compression.
+P004,paraphrase,Pressure-guided pneumatic compression was correlated with lower observed RAO rates and more favorable hemostatic and local outcomes than conventional screw-type compression.
+P004,escalated,Pressure-guided pneumatic compression reduced observed RAO rates and more favorable hemostatic and local outcomes than conventional screw-type compression.
+P005,original,"Meaning in life was negatively associated with depression and social anxiety symptoms, alcohol consumption, alcohol problems, and drug use."
+P005,paraphrase,"Meaning in life showed an inverse correlation with depression and social anxiety symptoms, alcohol consumption, alcohol problems, and drug use."
+P005,escalated,"Meaning in life reduces depression and social anxiety symptoms, alcohol consumption, alcohol problems, and drug use."
+P006,original,Bismuth type IV strictures and EUS-BD drainage limited to one or two liver segments were associated with clinical failure.
+P006,paraphrase,Bismuth type IV strictures and EUS-BD drainage limited to one or two liver segments were correlated with clinical failure.
+P006,escalated,Bismuth type IV strictures and EUS-BD drainage limited to one or two liver segments contributed to clinical failure.
+P007,original,AKD is common among stable outpatients with decompensated cirrhosis and was associated with a graded risk of complications and death.
+P007,paraphrase,AKD is common among stable outpatients with decompensated cirrhosis and was correlated with a graded risk of complications and death.
+P007,escalated,AKD is common among stable outpatients with decompensated cirrhosis and contributed to a graded risk of complications and death.
+P008,original,"U-EMR was associated with lower procedure-related environmental burden than conventional EMR, persisting after normalization for en bloc resection."
+P008,paraphrase,"U-EMR was correlated with lower procedure-related environmental burden than conventional EMR, persisting after normalization for en bloc resection."
+P008,escalated,"U-EMR reduced procedure-related environmental burden than conventional EMR, persisting after normalization for en bloc resection."
+P009,original,"Compared with the presence of neither liver nor lung metastases, lung but not liver or liver but not lung sites of metastases were significantly associated with PFS but not OS in these multivariable models."
+P009,paraphrase,"Compared with the presence of neither liver nor lung metastases, lung but not liver or liver but not lung sites of metastases were significantly correlated with PFS but not OS in these multivariable models."
+P009,escalated,"Compared with the presence of neither liver nor lung metastases, lung but not liver or liver but not lung sites of metastases significantly contributed to PFS but not OS in these multivariable models."
+P010,original,"Castration-resistant disease (adjusted HR, 1.82; 95% CI 1.08-3.07) and nonosseous lesion site (HR 1.84; 95% CI 1.02-3.31) were independently associated with shorter TTLF."
+P010,paraphrase,"Castration-resistant disease (adjusted HR, 1.82; 95% CI 1.08-3.07) and nonosseous lesion site (HR 1.84; 95% CI 1.02-3.31) were independently correlated with shorter TTLF."
+P010,escalated,"Castration-resistant disease (adjusted HR, 1.82; 95% CI 1.08-3.07) and nonosseous lesion site (HR 1.84; 95% CI 1.02-3.31) independently contributed to shorter TTLF."
+P011,original,"Although PFS remained limited, SBRT was associated with high local control and a low observed rate of severe adverse events in patients with HNSCC-derived bone metastases."
+P011,paraphrase,"Although PFS remained limited, SBRT was correlated with high local control and a low observed rate of severe adverse events in patients with HNSCC-derived bone metastases."
+P011,escalated,"Although PFS remained limited, SBRT contributed to high local control and a low observed rate of severe adverse events in patients with HNSCC-derived bone metastases."
+P012,original,"However, substantial baseline differences between groups indicate that assessment modality was strongly linked to clinical triage and baseline patient risk, thereby limiting direct comparison between pathways."
+P012,paraphrase,"However, substantial baseline differences between groups indicate that assessment modality was strongly correlated with clinical triage and baseline patient risk, thereby limiting direct comparison between pathways."
+P012,escalated,"However, substantial baseline differences between groups indicate that assessment modality was strongly drives clinical triage and baseline patient risk, thereby limiting direct comparison between pathways."
+P013,original,"In multivariate analysis, MRD positivity postdefinitive treatment was the only clinicopathologic factor significantly associated with PFS (HR, 38.29; <i>P</i> < .001)."
+P013,paraphrase,"In multivariate analysis, MRD positivity postdefinitive treatment was the only clinicopathologic factor significantly correlated with PFS (HR, 38.29; <i>P</i> < .001)."
+P013,escalated,"In multivariate analysis, MRD positivity postdefinitive treatment was the only clinicopathologic factor significantly that contribute to PFS (HR, 38.29; <i>P</i> < .001)."
+P014,original,"Although rs6783734 was not associated with disease severity, higher CSF NKT cell frequencies were associated with greater ARMSS at the ≥1-year follow-up (<i>p</i> = 9.33 × 10<sup>-3</sup>)."
+P014,paraphrase,"Although rs6783734 was not correlated with disease severity, higher CSF NKT cell frequencies were correlated with greater ARMSS at the ≥1-year follow-up (<i>p</i> = 9.33 × 10<sup>-3</sup>)."
+P014,escalated,"Although rs6783734 did not influence disease severity, higher CSF NKT cell frequencies increased greater ARMSS at the ≥1-year follow-up (<i>p</i> = 9.33 × 10<sup>-3</sup>)."
+P015,original,"In adjusted analysis, both preoperative (adjusted OR 2.82, 95% CI 1.45-5.52) and intraoperative/postoperative ECMO exposures (adjusted OR 2.24, 95% CI 1.52-3.29) were independently associated with VTE."
+P015,paraphrase,"In adjusted analysis, both preoperative (adjusted OR 2.82, 95% CI 1.45-5.52) and intraoperative/postoperative ECMO exposures (adjusted OR 2.24, 95% CI 1.52-3.29) were independently correlated with VTE."
+P015,escalated,"In adjusted analysis, both preoperative (adjusted OR 2.82, 95% CI 1.45-5.52) and intraoperative/postoperative ECMO exposures (adjusted OR 2.24, 95% CI 1.52-3.29) independently contributed to VTE."
+P016,original,"Overall, alternative living arrangements were associated with small increases in test scores in the context of prior maternal incarceration but were associated with decreased test scores among children with no maternal CLS involvement."
+P016,paraphrase,"Overall, alternative living arrangements were correlated with small increases in test scores in the context of prior maternal incarceration but were correlated with decreased test scores among children with no maternal CLS involvement."
+P016,escalated,"Overall, alternative living arrangements produced small increases in test scores in the context of prior maternal incarceration but reduced test scores among children with no maternal CLS involvement."
+P017,original,"Poor late-pregnancy sleep quality was associated with different growth trajectories between ages 0 and 2, characterized by lower early weight status followed by accelerated growth and higher weight by ages 1-2."
+P017,paraphrase,"Poor late-pregnancy sleep quality was correlated with different growth trajectories between ages 0 and 2, characterized by lower early weight status followed by accelerated growth and higher weight by ages 1-2."
+P017,escalated,"Poor late-pregnancy sleep quality contributed to different growth trajectories between ages 0 and 2, characterized by lower early weight status followed by accelerated growth and higher weight by ages 1-2."
+P018,original,"Obstruction of the trachea, left or right main bronchi was associated with the highest odds of catastrophic airway events (OR: 3.77; 95% CI: 1.45,9.94) on multivariable analysis."
+P018,paraphrase,"Obstruction of the trachea, left or right main bronchi was correlated with the highest odds of catastrophic airway events (OR: 3.77; 95% CI: 1.45,9.94) on multivariable analysis."
+P018,escalated,"Obstruction of the trachea, left or right main bronchi contributed to the highest odds of catastrophic airway events (OR: 3.77; 95% CI: 1.45,9.94) on multivariable analysis."
+P019,original,"Univariable and multivariable logistic regression analyses were performed to examine factors independently associated with preoperative rupture, and between-group differences in preoperative rupture were compared."
+P019,paraphrase,"Univariable and multivariable logistic regression analyses were performed to examine factors independently correlated with preoperative rupture, and between-group differences in preoperative rupture were compared."
+P019,escalated,"Univariable and multivariable logistic regression analyses were performed to examine factors that independently caused preoperative rupture, and to compare the causal effects of these factors on preoperative rupture between groups."
+P020,original,"In resected specimens, MI-L was independently associated with claudin-18 expression and correlated with submucosal invasion, ulcer status, and macroscopic type."
+P020,paraphrase,"In resected specimens, MI-L was independently correlated with claudin-18 expression and correlated with submucosal invasion, ulcer status, and macroscopic type."
+P020,escalated,"In resected specimens, MI-L independently contributed to claudin-18 expression and contributes to submucosal invasion, ulcer status, and macroscopic type."
+P021,original,"Higher odds of the primary outcome were associated with arrival by ambulance (odds ratio 1·86, 95% CI 1·51-2·29), and lower odds were associated with a previous health-care encounter (0·61, 0·52-0·71)."
+P021,paraphrase,"Higher odds of the primary outcome were correlated with arrival by ambulance (odds ratio 1·86, 95% CI 1·51-2·29), and lower odds were correlated with a previous health-care encounter (0·61, 0·52-0·71)."
+P021,escalated,"Arrival by ambulance increases the odds of the primary outcome (odds ratio 1·86, 95% CI 1·51-2·29), whereas a previous health-care encounter reduces the odds (0·61, 0·52-0·71)."
+P022,original,This study aimed to compare the efficacy and toxicity of two sHDR-BT fractionation schedules and identify factors associated with treatment outcomes.
+P022,paraphrase,This study aimed to compare the efficacy and toxicity of two sHDR-BT fractionation schedules and identify factors correlated with treatment outcomes.
+P022,escalated,This study aimed to compare the efficacy and toxicity of two sHDR-BT fractionation schedules and identify factors that cause treatment outcomes.
+P023,original,Higher local temperature anomaly and greater SMV were associated with first EHR-recorded depression.
+P023,paraphrase,Higher local temperature anomaly and greater SMV were correlated with first EHR-recorded depression.
+P023,escalated,Higher local temperature anomaly and greater SMV contributed to first EHR-recorded depression.
+P024,original,"After Firth penalized logistic regression, the protocol remained associated with lower odds of RAO at 24 h (adjusted OR = 0.358, 95% CI: 0.143-0.809; <i>p</i> = 0.013)."
+P024,paraphrase,"After Firth penalized logistic regression, the protocol remained correlated with lower odds of RAO at 24 h (adjusted OR = 0.358, 95% CI: 0.143-0.809; <i>p</i> = 0.013)."
+P024,escalated,"After Firth penalized logistic regression, the protocol remained that contribute to lower odds of RAO at 24 h (adjusted OR = 0.358, 95% CI: 0.143-0.809; <i>p</i> = 0.013)."
+P025,original,Both strategies were associated with low perioperative risk and comparable long‑term survival.
+P025,paraphrase,Both strategies were correlated with low perioperative risk and comparable long‑term survival.
+P025,escalated,Both strategies contributed to low perioperative risk and comparable long‑term survival.
+P026,original,"mCCI was not robustly associated with OS, PFS, or cancer-related death among selected older patients with HCC treated with MWA."
+P026,paraphrase,"mCCI was not robustly correlated with OS, PFS, or cancer-related death among selected older patients with HCC treated with MWA."
+P026,escalated,"mCCI was not robustly that contribute to OS, PFS, or cancer-related death among selected older patients with HCC treated with MWA."
+P027,original,Increasing age was associated with a lower prevalence of severe antral inflammation.
+P027,paraphrase,Increasing age was correlated with a lower prevalence of severe antral inflammation.
+P027,escalated,Increasing age contributed to a lower prevalence of severe antral inflammation.
+P028,original,"We found that in the SN, the majority of network modules were associated with chromatin organization, energy metabolism, and synaptic signaling, whereas those in the PLTs were related to chromatin organization and DNA metabolism."
+P028,paraphrase,"We found that in the SN, the majority of network modules were correlated with chromatin organization, energy metabolism, and synaptic signaling, whereas those in the PLTs were related to chromatin organization and DNA metabolism."
+P028,escalated,"We found that in the SN, the majority of network modules contributed to chromatin organization, energy metabolism, and synaptic signaling, whereas those in the PLTs were related to chromatin organization and DNA metabolism."
+P029,original,"Raman spectral analysis revealed distinct biochemical differences between normal and oral cancer samples, including sample-dependent variations in bands associated with proteins, lipids, amino acids, and metabolites."
+P029,paraphrase,"Raman spectral analysis revealed distinct biochemical differences between normal and oral cancer samples, including sample-dependent variations in bands correlated with proteins, lipids, amino acids, and metabolites."
+P029,escalated,"Raman spectral analysis revealed distinct biochemical differences between normal and oral cancer samples, including sample-dependent variations in bands that contribute to proteins, lipids, amino acids, and metabolites."
+P030,original,NMDAR encephalitis is associated with persistent multidimensional burden despite favorable global recovery.
+P030,paraphrase,NMDAR encephalitis is correlated with persistent multidimensional burden despite favorable global recovery.
+P030,escalated,NMDAR encephalitis causes persistent multidimensional burden despite favorable global recovery.
+P031,original,This study aims to evaluate whether late-pregnancy sleep quality is associated with children's weight trajectories from age 0 to 2 years.
+P031,paraphrase,This study aims to evaluate whether late-pregnancy sleep quality is correlated with children's weight trajectories from age 0 to 2 years.
+P031,escalated,This study aims to evaluate whether late-pregnancy sleep quality causes children's weight trajectories from age 0 to 2 years.
+P032,original,Mixed-effects analyses showed gait regularity was associated with all fixed effects (all p < 0.001).
+P032,paraphrase,Mixed-effects analyses showed gait regularity was correlated with all fixed effects (all p < 0.001).
+P032,escalated,Mixed-effects analyses showed gait regularity contributed to all fixed effects (all p < 0.001).
+P033,original,Multiple regression models were used to identify factors associated with health-related quality of life (HRQoL).
+P033,paraphrase,Multiple regression models were used to identify factors correlated with health-related quality of life (HRQoL).
+P033,escalated,Multiple regression models were used to identify factors that contribute to health-related quality of life (HRQoL).
+P034,original,"Furthermore, hyperuricemia metabolic score composed of 126 differential metabolites was significantly associated with CMDs (HR = 1.24, 95% CI: 1.21-1.27) and CMM (HR = 1.36, 95% CI: 1.28-1.44)."
+P034,paraphrase,"Furthermore, hyperuricemia metabolic score composed of 126 differential metabolites was significantly correlated with CMDs (HR = 1.24, 95% CI: 1.21-1.27) and CMM (HR = 1.36, 95% CI: 1.28-1.44)."
+P034,escalated,"Furthermore, hyperuricemia metabolic score composed of 126 differential metabolites significantly contributed to CMDs (HR = 1.24, 95% CI: 1.21-1.27) and CMM (HR = 1.36, 95% CI: 1.28-1.44)."
+P035,original,"Limited prior retrospective data, primarily among patients with lung cancer, liver cancer, and melanoma, has indicated that liver metastases are associated with poorer outcomes with chemotherapy, targeted agents, and checkpoint inhibitor therapy."
+P035,paraphrase,"Limited prior retrospective data, primarily among patients with lung cancer, liver cancer, and melanoma, has indicated that liver metastases are correlated with poorer outcomes with chemotherapy, targeted agents, and checkpoint inhibitor therapy."
+P035,escalated,"Limited prior retrospective data, primarily among patients with lung cancer, liver cancer, and melanoma, has indicated that liver metastases cause poorer outcomes with chemotherapy, targeted agents, and checkpoint inhibitor therapy."
+P036,original,"Accounting for baseline network variables, better baseline subjective executive function was associated with greater Week 8 energy (β = 0.11), and better baseline subjective memory with greater energy and general interest (both β = 0.06)."
+P036,paraphrase,"Accounting for baseline network variables, better baseline subjective executive function was correlated with greater Week 8 energy (β = 0.11), and better baseline subjective memory with greater energy and general interest (both β = 0.06)."
+P036,escalated,"Accounting for baseline network variables, better baseline subjective executive function contributed to greater Week 8 energy (β = 0.11), and better baseline subjective memory with greater energy and general interest (both β = 0.06)."
+P037,original,"After FDR adjustment, TVR remained independently associated with GDS at Year 2 (β = -0.655, p = 0.006, q = 0.036), but the association at Year 1 did not survive correction (β = -0.445, p = 0.037, q = 0.100)."
+P037,paraphrase,"After FDR adjustment, TVR remained independently correlated with GDS at Year 2 (β = -0.655, p = 0.006, q = 0.036), but the association at Year 1 did not survive correction (β = -0.445, p = 0.037, q = 0.100)."
+P037,escalated,"After FDR adjustment, TVR remained independently that contribute to GDS at Year 2 (β = -0.655, p = 0.006, q = 0.036), but the association at Year 1 did not survive correction (β = -0.445, p = 0.037, q = 0.100)."
+P038,original,"Subjective cognitive impairments are highly prevalent in patients with major depressive disorder (MDD) and, consistent with objective cognitive impairments, are associated with greater symptom severity and poorer treatment outcomes."
+P038,paraphrase,"Subjective cognitive impairments are highly prevalent in patients with major depressive disorder (MDD) and, consistent with objective cognitive impairments, are correlated with greater symptom severity and poorer treatment outcomes."
+P038,escalated,"Subjective cognitive impairments are highly prevalent in patients with major depressive disorder (MDD) and, consistent with objective cognitive impairments, cause greater symptom severity and poorer treatment outcomes."
+P039,original,"Although repeated vaccination has been associated with lower-than-expected post-vaccination titers, whether it alters immune durability remains unclear."
+P039,paraphrase,"Although repeated vaccination has been correlated with lower-than-expected post-vaccination titers, whether it alters immune durability remains unclear."
+P039,escalated,"Although repeated vaccination reduces post-vaccination titers, whether it changes immune durability remains unclear."
+P040,original,"In time-dependent Cox regression adjusted for age, sex, and prior arterial thromboembolism, untreated AF was associated with increased thromboembolic risk compared with no AF (HR 2.53), whereas OAC use was associated with lower risk."
+P040,paraphrase,"In time-dependent Cox regression adjusted for age, sex, and prior arterial thromboembolism, untreated AF was correlated with increased thromboembolic risk compared with no AF (HR 2.53), whereas OAC use was correlated with lower risk."
+P040,escalated,"In time-dependent Cox regression adjusted for age, sex, and prior arterial thromboembolism, untreated AF increased thromboembolic risk compared with no AF (HR 2.53), whereas OAC use reduced risk."
+P041,original,Maternal sleep health during pregnancy has been linked to children's physical growth.
+P041,paraphrase,Maternal sleep health during pregnancy has been correlated with children's physical growth.
+P041,escalated,Maternal sleep health during pregnancy has been drives children's physical growth.
+P042,original,"Circumferential dissection was strongly associated with DeBakey type I dissection, supra-aortic branch involvement, and greater false-lumen expansion with true-lumen compression."
+P042,paraphrase,"Circumferential dissection was strongly correlated with DeBakey type I dissection, supra-aortic branch involvement, and greater false-lumen expansion with true-lumen compression."
+P042,escalated,"Circumferential dissection was strongly that contribute to DeBakey type I dissection, supra-aortic branch involvement, and greater false-lumen expansion with true-lumen compression."
+P043,original,"Univariable analyses were performed to identify factors associated with DPPB, and exploratory multivariable analyses were conducted."
+P043,paraphrase,"Univariable analyses were performed to identify factors correlated with DPPB, and exploratory multivariable analyses were conducted."
+P043,escalated,"Univariable analyses were performed to identify factors that cause DPPB, and exploratory multivariable analyses were conducted."
+P044,original,"While maintaining a favorable safety profile, PI-UEMR was associated with a higher R0 resection rate than CEMR in this study."
+P044,paraphrase,"While maintaining a favorable safety profile, PI-UEMR was correlated with a higher R0 resection rate than CEMR in this study."
+P044,escalated,"While maintaining a favorable safety profile, PI-UEMR contributed to a higher R0 resection rate than CEMR in this study."
+P045,original,Colorectal polypectomy in patients receiving ATT is associated with an increased risk of DPPB.
+P045,paraphrase,Colorectal polypectomy in patients receiving ATT is correlated with an increased risk of DPPB.
+P045,escalated,Colorectal polypectomy in patients receiving ATT causes an increased risk of DPPB.
+P046,original,Perioperative ECMO exposure is independently associated with VTE.
+P046,paraphrase,Perioperative ECMO exposure is independently correlated with VTE.
+P046,escalated,Perioperative ECMO exposure independently contributes to VTE.
+P047,original,Multivariable analysis was performed to identify factors associated with clinical failure.
+P047,paraphrase,Multivariable analysis was performed to identify factors correlated with clinical failure.
+P047,escalated,Multivariable analysis was performed to identify factors that cause clinical failure.
+P048,original,"DUF6383 domain-containing protein from <i>Parabacteroides distasonis</i> is correlated with histological injury, inflammatory cell infiltration, and is linked to neutrophil degranulation in the host."
+P048,paraphrase,"DUF6383 domain-containing protein from <i>Parabacteroides distasonis</i> is correlated with histological injury, inflammatory cell infiltration, and is correlated with neutrophil degranulation in the host."
+P048,escalated,"DUF6383 domain-containing protein from <i>Parabacteroides distasonis</i> is contributes to histological injury, inflammatory cell infiltration, and determines neutrophil degranulation in the host."
+P049,original,"Among patients with AKD, AKI-AKD was associated with higher mortality than NAKI-AKD (aCsHR: 3.07, 95% CI: 1.46-6.47; <i>P</i> = 0.003)."
+P049,paraphrase,"Among patients with AKD, AKI-AKD was correlated with higher mortality than NAKI-AKD (aCsHR: 3.07, 95% CI: 1.46-6.47; <i>P</i> = 0.003)."
+P049,escalated,"Among patients with AKD, AKI-AKD increased mortality than NAKI-AKD (aCsHR: 3.07, 95% CI: 1.46-6.47; <i>P</i> = 0.003)."
+P050,original,"In contrast, better baseline objective immediate verbal memory was prospectively associated with worse Week 8 levels for sad mood, energy/fatigability, and general interest (β = -0.12, -0.07, and - 0.05, respectively)."
+P050,paraphrase,"In contrast, better baseline objective immediate verbal memory was prospectively correlated with worse Week 8 levels for sad mood, energy/fatigability, and general interest (β = -0.12, -0.07, and - 0.05, respectively)."
+P050,escalated,"In contrast, better baseline objective immediate verbal memory prospectively led to worse Week 8 levels for sad mood, energy/fatigability, and general interest (β = -0.12, -0.07, and - 0.05, respectively)."
+P051,original,"The number of obstructed airways detected on imaging was associated with progressively higher odds of any clinical airway events (OR: 1.48; 95% CI: 1.20,1.88) and catastrophic airway events (OR:1.31; 95% CI: 1.07,1.61) in multivariable analyses."
+P051,paraphrase,"The number of obstructed airways detected on imaging was correlated with progressively higher odds of any clinical airway events (OR: 1.48; 95% CI: 1.20,1.88) and catastrophic airway events (OR:1.31; 95% CI: 1.07,1.61) in multivariable analyses."
+P051,escalated,"The number of obstructed airways detected on imaging contributed to progressively higher odds of any clinical airway events (OR: 1.48; 95% CI: 1.20,1.88) and catastrophic airway events (OR:1.31; 95% CI: 1.07,1.61) in multivariable analyses."
+P052,original,GNE myopathy (GNEM) is a rare neuromuscular disorder caused by pathogenic variants in the GNE gene and traditionally associated with impaired sialic acid biosynthesis.
+P052,paraphrase,GNE myopathy (GNEM) is a rare neuromuscular disorder caused by pathogenic variants in the GNE gene and traditionally correlated with impaired sialic acid biosynthesis.
+P052,escalated,GNE myopathy (GNEM) is a rare neuromuscular disorder caused by pathogenic variants in the GNE gene and traditionally results in impaired sialic acid biosynthesis.
+P053,original,"Each standard deviation (SD) higher 30-day temperature anomaly was associated with higher depression hazard in Aim 1 (hazard ratio [HR] 1.06, 95% confidence interval [CI] 1.03-1.10) and Aim 2 (HR 1.08, 95% CI 1.04-1.11)."
+P053,paraphrase,"Each standard deviation (SD) higher 30-day temperature anomaly was correlated with higher depression hazard in Aim 1 (hazard ratio [HR] 1.06, 95% confidence interval [CI] 1.03-1.10) and Aim 2 (HR 1.08, 95% CI 1.04-1.11)."
+P053,escalated,"Each standard deviation (SD) higher 30-day temperature anomaly increased depression hazard in Aim 1 (hazard ratio [HR] 1.06, 95% confidence interval [CI] 1.03-1.10) and Aim 2 (HR 1.08, 95% CI 1.04-1.11)."
+P054,original,A longer EIS-APC interval was associated with a lower recurrence rate without an increase in adverse events.
+P054,paraphrase,A longer EIS-APC interval was correlated with a lower recurrence rate without an increase in adverse events.
+P054,escalated,A longer EIS-APC interval contributed to a lower recurrence rate without an increase in adverse events.
+P055,original,"Among tested patients, cotinine positivity (110/574 [19%]) was associated with younger age, COPD, smoking history, and shorter reported nicotine cessation."
+P055,paraphrase,"Among tested patients, cotinine positivity (110/574 [19%]) was correlated with younger age, COPD, smoking history, and shorter reported nicotine cessation."
+P055,escalated,"Among tested patients, cotinine positivity (110/574 [19%]) contributed to younger age, COPD, smoking history, and shorter reported nicotine cessation."
+P056,original,"Early VTE was not associated with mortality (adjusted HR 0.87, 95% CI 0.67-1.12)."
+P056,paraphrase,"Early VTE was not correlated with mortality (adjusted HR 0.87, 95% CI 0.67-1.12)."
+P056,escalated,"Early VTE did not increase mortality (adjusted HR 0.87, 95% CI 0.67-1.12)."
+P057,original,"MADRS, but not BDI-II, upward transitions were associated with concurrent and lagged worsening in non-suicidal depressive symptoms."
+P057,paraphrase,"MADRS, but not BDI-II, upward transitions were correlated with concurrent and lagged worsening in non-suicidal depressive symptoms."
+P057,escalated,"MADRS, but not BDI-II, upward transitions caused concurrent and lagged worsening in non-suicidal depressive symptoms."
+P058,original,The findings suggest candidate hub proteins and upstream TFs potentially associated with immune dysregulation in IgAN.
+P058,paraphrase,The findings suggest candidate hub proteins and upstream TFs potentially correlated with immune dysregulation in IgAN.
+P058,escalated,The findings suggest candidate hub proteins and upstream TFs potentially that contribute to immune dysregulation in IgAN.
+P059,original,"In this large cohort study, hyperuricemia was both observationally and genetically associated with increased risk of cardiometabolic diseases and subsequent progression to cardiometabolic multimorbidity."
+P059,paraphrase,"In this large cohort study, hyperuricemia was both observationally and genetically correlated with increased risk of cardiometabolic diseases and subsequent progression to cardiometabolic multimorbidity."
+P059,escalated,"In this large cohort study, hyperuricemia was both observationally and genetically that contribute to increased risk of cardiometabolic diseases and subsequent progression to cardiometabolic multimorbidity."
+P060,original,"Additionally, we assessed the prevalence of active nicotine use at referral, factors linked to ongoing exposure, and relapse into active smoking post-LTx."
+P060,paraphrase,"Additionally, we assessed the prevalence of active nicotine use at referral, factors correlated with ongoing exposure, and relapse into active smoking post-LTx."
+P060,escalated,"Additionally, we assessed the prevalence of active nicotine use at referral, factors that caused ongoing exposure, and factors that caused relapse into active smoking post-LTx."
+P061,original,We examined whether cyclothymic temperament is independently linked to antenatal depression beyond obstetric severity.
+P061,paraphrase,We examined whether cyclothymic temperament is independently correlated with antenatal depression beyond obstetric severity.
+P061,escalated,We examined whether cyclothymic temperament is independently drives antenatal depression beyond obstetric severity.
+P062,original,"After mutual adjustment and correction, depression was independently associated with executive and visuospatial function, whereas anxiety showed no independent cognitive correlate."
+P062,paraphrase,"After mutual adjustment and correction, depression was independently correlated with executive and visuospatial function, whereas anxiety showed no independent cognitive correlate."
+P062,escalated,"After mutual adjustment and correction, depression independently contributed to executive and visuospatial function, whereas anxiety showed no independent cognitive correlate."
+P063,original,"Serum mannose correlated with MRI-defined infarct volume (R<sup>2</sup> = 0.543, P = 0.003), and retrospective analysis of 70 conventional laboratory tests confirmed that none differentiated AIS from ICH."
+P063,paraphrase,"Serum mannose correlated with MRI-defined infarct volume (R<sup>2</sup> = 0.543, P = 0.003), and retrospective analysis of 70 conventional laboratory tests confirmed that none differentiated AIS from ICH."
+P063,escalated,"Serum mannose determines MRI-defined infarct volume (R<sup>2</sup> = 0.543, P = 0.003), and retrospective analysis of 70 conventional laboratory tests confirmed that none differentiated AIS from ICH."
+P064,original,"Moreover, self-efficacy (β = 0.233; p <0.001) and more frequent use of health-related websites (B = 15.227; p <0.001) were associated with a higher DHL."
+P064,paraphrase,"Moreover, self-efficacy (β = 0.233; p <0.001) and more frequent use of health-related websites (B = 15.227; p <0.001) were correlated with a higher DHL."
+P064,escalated,"Moreover, self-efficacy (β = 0.233; p <0.001) and more frequent use of health-related websites (B = 15.227; p <0.001) contributed to a higher DHL."
+P065,original,"Although endoscopic resection is widely performed for superficial non-ampullary duodenal epithelial tumors (SNADETs), conventional endoscopic mucosal resection (CEMR) may be associated with suboptimal complete resection rates."
+P065,paraphrase,"Although endoscopic resection is widely performed for superficial non-ampullary duodenal epithelial tumors (SNADETs), conventional endoscopic mucosal resection (CEMR) may be correlated with suboptimal complete resection rates."
+P065,escalated,"Although endoscopic resection is widely performed for superficial non-ampullary duodenal epithelial tumors (SNADETs), conventional endoscopic mucosal resection (CEMR) may be that contribute to suboptimal complete resection rates."
+P066,original,We compared DPPB rates between patients with and without ATT and explored factors associated with bleeding.
+P066,paraphrase,We compared DPPB rates between patients with and without ATT and explored factors correlated with bleeding.
+P066,escalated,We compared DPPB rates between patients with and without ATT and explored factors that cause bleeding.
+P067,original,"A significant TVR‑by‑time interaction emerged (β = -0.163, p = 0.008), suggesting that lower TVR was associated with a steeper increase in GDS scores over time."
+P067,paraphrase,"A significant TVR‑by‑time interaction emerged (β = -0.163, p = 0.008), suggesting that lower TVR was correlated with a steeper increase in GDS scores over time."
+P067,escalated,"A significant TVR‑by‑time interaction emerged (β = -0.163, p = 0.008), suggesting that lower TVR contributed to a steeper increase in GDS scores over time."
+P068,original,"In exploratory analyses, detectable post-treatment plasma EBV DNA and elevated post-LRRT PET SUV were associated with inferior survival."
+P068,paraphrase,"In exploratory analyses, detectable post-treatment plasma EBV DNA and elevated post-LRRT PET SUV were correlated with inferior survival."
+P068,escalated,"In exploratory analyses, detectable post-treatment plasma EBV DNA and elevated post-LRRT PET SUV contributed to inferior survival."
+P069,original,Postoperative infections following cardiac surgery with CPB remain common and are associated with increased postoperative complications and mortality.
+P069,paraphrase,Postoperative infections following cardiac surgery with CPB remain common and are correlated with increased postoperative complications and mortality.
+P069,escalated,Postoperative infections following cardiac surgery with CPB remain common and cause increased postoperative complications and mortality.
+P070,original,CT-detected proximal airway obstruction is associated with subsequent clinical airway events in patients undergoing palliative thoracic radiotherapy.
+P070,paraphrase,CT-detected proximal airway obstruction is correlated with subsequent clinical airway events in patients undergoing palliative thoracic radiotherapy.
+P070,escalated,CT-detected proximal airway obstruction causes subsequent clinical airway events in patients undergoing palliative thoracic radiotherapy.
+P071,original,Other immunocompromising conditions were associated with Aspergillus spp.
+P071,paraphrase,Other immunocompromising conditions were correlated with Aspergillus spp.
+P071,escalated,Other immunocompromising conditions contributed to Aspergillus spp.
+P072,original,"The study population comprised 29 554 men with an ID and 518 739 comparators from the Clinical Practice Research Datalink Aurum database, which is linked to hospital, mortality, and cancer registry data."
+P072,paraphrase,"The study population comprised 29 554 men with an ID and 518 739 comparators from the Clinical Practice Research Datalink Aurum database, which is correlated with hospital, mortality, and cancer registry data."
+P072,escalated,"The study population comprised 29 554 men with an ID and 518 739 comparators from the Clinical Practice Research Datalink Aurum database, which is connected to hospital, mortality, and cancer registry data."
+P073,original,"Central airway obstruction was associated with higher odds of clinical airway events (OR: 2.60; 95% CI: 1.56,4.40) on multivariable analysis."
+P073,paraphrase,"Central airway obstruction was correlated with higher odds of clinical airway events (OR: 2.60; 95% CI: 1.56,4.40) on multivariable analysis."
+P073,escalated,"Central airway obstruction increased odds of clinical airway events (OR: 2.60; 95% CI: 1.56,4.40) on multivariable analysis."
+P074,original,"In patients with stage I to IV HNSCC, ctDNA-based MRD positivity after definitive local therapy and adjuvant treatment is associated with disease recurrence and poor survival outcomes."
+P074,paraphrase,"In patients with stage I to IV HNSCC, ctDNA-based MRD positivity after definitive local therapy and adjuvant treatment is correlated with disease recurrence and poor survival outcomes."
+P074,escalated,"In patients with stage I to IV HNSCC, ctDNA-based MRD positivity after definitive local therapy and adjuvant treatment causes disease recurrence and poor survival outcomes."
+P075,original,"USAT was associated with lower all-cause (7.4% vs 13.9%; HR 0.52, 95% CI 0.28-0.85; p = 0.01), cardiovascular (3.2% vs 8.3%; HR 0.39; p < 0.001), and PE-related mortality (2.3% vs 6.5%; HR 0.34; p = 0.02) compared with anticoagulation."
+P075,paraphrase,"USAT was correlated with lower all-cause (7.4% vs 13.9%; HR 0.52, 95% CI 0.28-0.85; p = 0.01), cardiovascular (3.2% vs 8.3%; HR 0.39; p < 0.001), and PE-related mortality (2.3% vs 6.5%; HR 0.34; p = 0.02) compared with anticoagulation."
+P075,escalated,"USAT reduced all-cause (7.4% vs 13.9%; HR 0.52, 95% CI 0.28-0.85; p = 0.01), cardiovascular (3.2% vs 8.3%; HR 0.39; p < 0.001), and PE-related mortality (2.3% vs 6.5%; HR 0.34; p = 0.02) compared with anticoagulation."
+P076,original,"Post-stroke anxiety and depression frequently co-occur, and whether each is independently associated with cognitive impairment remains unclear because most studies model one without adjusting for the other."
+P076,paraphrase,"Post-stroke anxiety and depression frequently co-occur, and whether each is independently correlated with cognitive impairment remains unclear because most studies model one without adjusting for the other."
+P076,escalated,"Post-stroke anxiety and depression frequently co-occur, and whether each independently contributes to cognitive impairment remains unclear because most studies model one without adjusting for the other."
+P077,original,"Hospital level (1·14, 0·96-1·35) and delays in reaching the facility (0·86, 0·74-1·00) were not associated with the primary outcome."
+P077,paraphrase,"Hospital level (1·14, 0·96-1·35) and delays in reaching the facility (0·86, 0·74-1·00) were not correlated with the primary outcome."
+P077,escalated,"Hospital level (1·14, 0·96-1·35) and delays in reaching the facility (0·86, 0·74-1·00) did not affect the primary outcome."
+P078,original,This study aimed to evaluate the clinical-demographic factors associated with contamination and quantify its direct economic impact in a tertiary hospital.
+P078,paraphrase,This study aimed to evaluate the clinical-demographic factors correlated with contamination and quantify its direct economic impact in a tertiary hospital.
+P078,escalated,This study aimed to evaluate the clinical-demographic factors that cause contamination and quantify its direct economic impact in a tertiary hospital.
+P079,original,The high post-injury mortality and disability are associated with health system factors that must be better understood before potentially expensive service models are introduced or expanded.
+P079,paraphrase,The high post-injury mortality and disability are correlated with health system factors that must be better understood before potentially expensive service models are introduced or expanded.
+P079,escalated,The high post-injury mortality and disability cause health system factors that must be better understood before potentially expensive service models are introduced or expanded.
+P080,original,"In intermediate-high-risk PE, USAT was associated with lower early mortality, improved net clinical outcomes, and a safety profile comparable to standard anticoagulation."
+P080,paraphrase,"In intermediate-high-risk PE, USAT was correlated with lower early mortality, improved net clinical outcomes, and a safety profile comparable to standard anticoagulation."
+P080,escalated,"In intermediate-high-risk PE, USAT reduced early mortality, improved net clinical outcomes, and a safety profile comparable to standard anticoagulation."
+P081,original,Cyclothymic temperament and MFICU admission were independently associated with antenatal depression in high-risk pregnancies.
+P081,paraphrase,Cyclothymic temperament and MFICU admission were independently correlated with antenatal depression in high-risk pregnancies.
+P081,escalated,Cyclothymic temperament and MFICU admission independently contributed to antenatal depression in high-risk pregnancies.
+P082,original,"rs6783734 was associated with reduced <i>ITGB5</i> gene expression in CSF CD4<sup>+</sup> T cells, and MR supported a causal relationship between <i>ITGB5</i> expression and CSF NKT cell frequencies."
+P082,paraphrase,"rs6783734 was correlated with reduced <i>ITGB5</i> gene expression in CSF CD4<sup>+</sup> T cells, and MR supported a causal relationship between <i>ITGB5</i> expression and CSF NKT cell frequencies."
+P082,escalated,"rs6783734 reduced <i>ITGB5</i> gene expression in CSF CD4<sup>+</sup> T cells, and MR supported a causal relationship between <i>ITGB5</i> expression and CSF NKT cell frequencies."
+P083,original,"In both cohorts, it was associated with an increased risk of exacerbations: OR (95% CI) 1.58 (1.07-2.32), <i>p</i> = .02, and 2.20 (1.38-3.52), <i>p</i> < .001, respectively."
+P083,paraphrase,"In both cohorts, it was correlated with an increased risk of exacerbations: OR (95% CI) 1.58 (1.07-2.32), <i>p</i> = .02, and 2.20 (1.38-3.52), <i>p</i> < .001, respectively."
+P083,escalated,"In both cohorts, it contributed to an increased risk of exacerbations: OR (95% CI) 1.58 (1.07-2.32), <i>p</i> = .02, and 2.20 (1.38-3.52), <i>p</i> < .001, respectively."
+P084,original,"Our findings show that microbial proteins are associated with disease severity and progression, and that DUF6383 domain-containing protein from <i>P."
+P084,paraphrase,"Our findings show that microbial proteins are correlated with disease severity and progression, and that DUF6383 domain-containing protein from <i>P."
+P084,escalated,"Our findings show that microbial proteins cause disease severity and progression, and that DUF6383 domain-containing protein from <i>P."
+P085,original,"Both MFICU admission (adjusted odds ratio [aOR], 3.27; 95% CI, 1.45-7.37) and cyclothymic score (aOR, 1.63 per unit; 95% CI, 1.37-1.95) were independently associated with antenatal depression."
+P085,paraphrase,"Both MFICU admission (adjusted odds ratio [aOR], 3.27; 95% CI, 1.45-7.37) and cyclothymic score (aOR, 1.63 per unit; 95% CI, 1.37-1.95) were independently correlated with antenatal depression."
+P085,escalated,"Both MFICU admission (adjusted odds ratio [aOR], 3.27; 95% CI, 1.45-7.37) and cyclothymic score (aOR, 1.63 per unit; 95% CI, 1.37-1.95) independently contributed to antenatal depression."
+P086,original,"In the multivariable Fine-Gray model, a longer EIS-APC interval was independently associated with a lower cumulative incidence of recurrence (subdistribution hazard ratio 0.92, 95% CI 0.86-0.99; <i>p</i> = 0.026)."
+P086,paraphrase,"In the multivariable Fine-Gray model, a longer EIS-APC interval was independently correlated with a lower cumulative incidence of recurrence (subdistribution hazard ratio 0.92, 95% CI 0.86-0.99; <i>p</i> = 0.026)."
+P086,escalated,"In the multivariable Fine-Gray model, a longer EIS-APC interval independently contributed to a lower cumulative incidence of recurrence (subdistribution hazard ratio 0.92, 95% CI 0.86-0.99; <i>p</i> = 0.026)."
+P087,original,"MDT was associated with improved 2-year OS (92.3% vs 55.2%; <i>p</i> = 0.0069), RFS (81.9% vs 28.2%; <i>p</i> < 0.001) and DRFS (93.8% vs 35.0%; <i>p</i> < 0.001)."
+P087,paraphrase,"MDT was correlated with improved 2-year OS (92.3% vs 55.2%; <i>p</i> = 0.0069), RFS (81.9% vs 28.2%; <i>p</i> < 0.001) and DRFS (93.8% vs 35.0%; <i>p</i> < 0.001)."
+P087,escalated,"MDT contributed to improved 2-year OS (92.3% vs 55.2%; <i>p</i> = 0.0069), RFS (81.9% vs 28.2%; <i>p</i> < 0.001) and DRFS (93.8% vs 35.0%; <i>p</i> < 0.001)."
+P088,original,Circumferential dissection on CTA is independently associated with preoperative rupture and may support timely surgical decision-making in TAAD.
+P088,paraphrase,Circumferential dissection on CTA is independently correlated with preoperative rupture and may support timely surgical decision-making in TAAD.
+P088,escalated,Circumferential dissection on CTA independently contributes to preoperative rupture and may support timely surgical decision-making in TAAD.
+P089,original,Failed detorsion was associated with lower room-air oxygen saturation and higher lactate levels.
+P089,paraphrase,Failed detorsion was correlated with lower room-air oxygen saturation and higher lactate levels.
+P089,escalated,Failed detorsion reduced room-air oxygen saturation and higher lactate levels.
+P090,original,We further examined longitudinal ClinicalAge trajectories and investigated clinical and disease-specific factors associated with accelerated ageing.
+P090,paraphrase,We further examined longitudinal ClinicalAge trajectories and investigated clinical and disease-specific factors correlated with accelerated ageing.
+P090,escalated,We further examined longitudinal ClinicalAge trajectories and investigated clinical and disease-specific factors that cause accelerated ageing.
+P091,original,"In a diverse cohort of participants with advanced rare tumors treated with combination anti-CTLA-4 and anti-PD-1 therapy, we found that both the combination of lung and liver metastases was associated with shorter PFS and OS."
+P091,paraphrase,"In a diverse cohort of participants with advanced rare tumors treated with combination anti-CTLA-4 and anti-PD-1 therapy, we found that both the combination of lung and liver metastases was correlated with shorter PFS and OS."
+P091,escalated,"In a diverse cohort of participants with advanced rare tumors treated with combination anti-CTLA-4 and anti-PD-1 therapy, we found that both the combination of lung and liver metastases shortened PFS and OS."
+P092,original,This study examined how COT is implemented during LTx referral and factors associated with test ordering.
+P092,paraphrase,This study examined how COT is implemented during LTx referral and factors correlated with test ordering.
+P092,escalated,This study examined how COT is implemented during LTx referral and factors that cause test ordering.
+P093,original,"Elastic net regression was employed to identify metabolites associated with hyperuricemia, and a weighted hyperuricemia metabolic score was calculated to assess its association with CMM."
+P093,paraphrase,"Elastic net regression was employed to identify metabolites correlated with hyperuricemia, and a weighted hyperuricemia metabolic score was calculated to assess its association with CMM."
+P093,escalated,"Elastic net regression was employed to identify metabolites that caused hyperuricemia, and a weighted hyperuricemia metabolic score was calculated to assess its causal effect on CMM."
+P094,original,We hypothesize that both duration and level of blood pressure below a data-driven threshold during cardiopulmonary bypass are associated with the risk of gastrointestinal complications.
+P094,paraphrase,We hypothesize that both duration and level of blood pressure below a data-driven threshold during cardiopulmonary bypass are correlated with the risk of gastrointestinal complications.
+P094,escalated,We hypothesize that both duration and level of blood pressure below a data-driven threshold during cardiopulmonary bypass cause the risk of gastrointestinal complications.
+P095,original,"AF was associated with substantially increased thromboembolic risk, predominantly arterial in nature."
+P095,paraphrase,"AF was correlated with substantially increased thromboembolic risk, predominantly arterial in nature."
+P095,escalated,"AF contributed to substantially increased thromboembolic risk, predominantly arterial in nature."
+P096,original,"In multi-state analyses, the metabolic score was associated with higher risks of transition from health to CMD (HR = 1.25, 95% CI: 1.22-1.28) and from CMD to CMM (HR = 1.15, 95% CI: 1.07-1.22)."
+P096,paraphrase,"In multi-state analyses, the metabolic score was correlated with higher risks of transition from health to CMD (HR = 1.25, 95% CI: 1.22-1.28) and from CMD to CMM (HR = 1.15, 95% CI: 1.07-1.22)."
+P096,escalated,"In multi-state analyses, the metabolic score increased risks of transition from health to CMD (HR = 1.25, 95% CI: 1.22-1.28) and from CMD to CMM (HR = 1.15, 95% CI: 1.07-1.22)."
+P097,original,"Higher pre-vaccination titers were associated with slower waning for H1N1 and H3N2, whereas larger post-vaccination boosts predicted faster waning for all virus strains."
+P097,paraphrase,"Higher pre-vaccination titers were correlated with slower waning for H1N1 and H3N2, whereas larger post-vaccination boosts predicted faster waning for all virus strains."
+P097,escalated,"Higher pre-vaccination titers slowed waning for H1N1 and H3N2, whereas larger post-vaccination boosts accelerated waning for all virus strains."
+P098,original,"After adjustment for gender, age group, enrolment and delivery mode, cohort year remained associated with total marks (Wald χ<sup>2</sup> (6) = 35.20, p < 0.001)."
+P098,paraphrase,"After adjustment for gender, age group, enrolment and delivery mode, cohort year remained correlated with total marks (Wald χ<sup>2</sup> (6) = 35.20, p < 0.001)."
+P098,escalated,"After adjustment for gender, age group, enrolment and delivery mode, cohort year remained that contribute to total marks (Wald χ<sup>2</sup> (6) = 35.20, p < 0.001)."
+P099,original,"Factors independently associated with worse oncological outcomes included primary International Society of Urological Pathology grade 5, nodal or distant recurrence, castration resistance, and shorter interval from primary therapy to recurrence."
+P099,paraphrase,"Factors independently correlated with worse oncological outcomes included primary International Society of Urological Pathology grade 5, nodal or distant recurrence, castration resistance, and shorter interval from primary therapy to recurrence."
+P099,escalated,"Factors independently that contribute to worse oncological outcomes included primary International Society of Urological Pathology grade 5, nodal or distant recurrence, castration resistance, and shorter interval from primary therapy to recurrence."
+P100,original,"The presence of any central airway obstruction was associated with shorter OS in univariable (HR: 1.43; 95% CI: 1.09,1.87) but not multivariable (HR: 1.29; 95% CI: 0.97,1.72) analyses."
+P100,paraphrase,"The presence of any central airway obstruction was correlated with shorter OS in univariable (HR: 1.43; 95% CI: 1.09,1.87) but not multivariable (HR: 1.29; 95% CI: 0.97,1.72) analyses."
+P100,escalated,"The presence of any central airway obstruction led to shorter OS in univariable (HR: 1.43; 95% CI: 1.09,1.87) but not multivariable (HR: 1.29; 95% CI: 0.97,1.72) analyses."
